@@ -1,4 +1,4 @@
-#Elearning downloader
+# Elearning downloader
 Questa applicazione scritta in python permette di scaricare i video che sono stati caricati sulla piattaforma elearning.<br>
 ## Perchè?
 Trovo più comodo potere visualizzare in locale/offline le lezioni e, siccome elearning non ha un opzione per scaricare le varie lezioni, me lo sono dovuto creare da solo.<br>

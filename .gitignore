@@ -1,0 +1,8 @@
+# Mac files
+.DS_STORE
+
+# Le due directory per input/output
+output
+temp
+
+.idea
